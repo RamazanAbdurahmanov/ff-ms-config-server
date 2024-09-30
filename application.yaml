@@ -1,5 +1,5 @@
 eureka:
-  instance:https://github.com/RamazanAbdurahmanov/ff-ms-config-server/tree/main
+  instance:
     prefer-ip-address: true
   client:
     service-url:
